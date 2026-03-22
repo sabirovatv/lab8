@@ -30,5 +30,3 @@ jobs:
           context: .
           push: true
       tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab8:latest
-      
-
