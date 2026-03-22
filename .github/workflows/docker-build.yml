@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: Kiril207/lab08:latest
+          tags: toto/lab08:latest
 
