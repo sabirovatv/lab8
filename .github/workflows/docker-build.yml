@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: toto/lab08:latest
+      tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab8:latest
 
